@@ -1,16 +1,26 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
-import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ValueComponent } from './value/value.component';
+import { RouterModule, Routes } from '@angular/router';
+import { HttpModule } from '@angular/http';
+
+const appRoutes: Routes = [
+    {path: '', redirectTo: 'value', pathMatch: 'full' },
+    { path: 'value',  component: ValueComponent },
+    { path: '**', redirectTo: ''}
+  ];
+
 
 @NgModule({
   declarations: [
-    AppComponent
-  ],
+    AppComponent,
+    ValueComponent
+   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    HttpModule,
+    RouterModule.forRoot(appRoutes)
   ],
   providers: [],
   bootstrap: [AppComponent]

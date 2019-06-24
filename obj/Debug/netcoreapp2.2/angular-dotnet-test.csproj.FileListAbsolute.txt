@@ -1,0 +1,14 @@
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\bin\Debug\netcoreapp2.2\angular-dotnet-test.deps.json
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\bin\Debug\netcoreapp2.2\angular-dotnet-test.runtimeconfig.json
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\bin\Debug\netcoreapp2.2\angular-dotnet-test.runtimeconfig.dev.json
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\bin\Debug\netcoreapp2.2\angular-dotnet-test.dll
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\bin\Debug\netcoreapp2.2\angular-dotnet-test.pdb
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.csprojAssemblyReference.cache
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.csproj.CoreCompileInputs.cache
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.RazorAssemblyInfo.cache
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.RazorAssemblyInfo.cs
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.AssemblyInfoInputs.cache
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.AssemblyInfo.cs
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.RazorTargetAssemblyInfo.cache
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.dll
+C:\Users\wayne\GoLogic\Test\Angular-Dotnet\angular-dotnet-test\obj\Debug\netcoreapp2.2\angular-dotnet-test.pdb
